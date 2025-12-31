@@ -1,7 +1,7 @@
 # K-Means Clustering for IT Audit Monitoring & Fraud Detection
 
 ## Project Overview  
-This project implements a **K-Means clustering application** to analyze network traffic data for IT auditing and fraud detection. The main goal is to group network activity into clusters, helping auditors detect unusual behavior or potential fraudulent transactions by super users.  
+This project implements a **K-Means clustering application** to analyze network traffic data for IT auditing and fraud detection. The main goal is to group network activity into clusters, helping internal auditors to automatically detect unusual behavior or potential fraudulent transactions by super users.  
 
 The application uses a subset of the **CSE-CIC-IDS2018 dataset** (Processed Traffic Data) and demonstrates how unsupervised machine learning can highlight anomalies without prior labeling.
 
