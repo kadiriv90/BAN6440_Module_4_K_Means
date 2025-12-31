@@ -8,8 +8,6 @@ For this academic study, we only use a representative subset of CSV files.
 This keeps the computation efficient while preserving diversity of network traffic
 patterns to demonstrate clustering effectively.
 
-This version also handles messy data: missing values (NaN), infinity (inf),
-and extremely large numeric values.
 """
 
 # Import required libraries
