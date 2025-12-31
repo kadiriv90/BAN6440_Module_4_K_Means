@@ -3,11 +3,6 @@ K-Means Clustering for IT Audit Monitoring & Fraud Detection
 
 Dataset: CSE-CIC-IDS2018 (Processed Traffic Data)
 
-DESIGN JUSTIFICATION:
-For this academic study, we only use a representative subset of CSV files.
-This keeps the computation efficient while preserving diversity of network traffic
-patterns to demonstrate clustering effectively.
-
 """
 
 # Import required libraries
